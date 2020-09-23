@@ -1,6 +1,7 @@
 # EmployeesFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+This Angular project represents frontend for employee-app REST API
+This project is  structured  usiing [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
 
